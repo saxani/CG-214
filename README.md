@@ -42,10 +42,10 @@ More than 3 unexcused absences a student will receive a failing grade.
 
 <b>Evaluation: </b>Students are evaluated on completetion and quality of assignments, homework assignments, class participation and attendance. Points will be deducted for late assignments and homework. <br/>
 <ul>
-  <li>Participation and Attendance - 15%</li>
+  <li>Participation and Attendance - 20%</li>
   <li>Weekly homework assignments - 30%</li>
   <li>Midterm Project - 20%</li>
-  <li>Final Project - 35%</li>
+  <li>Final Project - 30%</li>
 </ul>
 
 Assignments will be posted on GitHub with URLs submitted via Blackboard. Grades and comments will be posted on Blackboard. 5% will be deducted per late assignment per day. 
