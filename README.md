@@ -11,6 +11,7 @@ Email: shaun_axani@fitnyc.edu <br/>
 Office Hours: By appointment <br/>
 
 <h3> Course Description </h3>
+1.5 credits, prerequisite of CG111 or approval from Chairperson.
 This course demystifies the web for students and acts as an introductory course for making websites. Students will work with HTML/CSS and learn about other libraries and languages to enhance their web-building skills<br/>
 
 By the end of the course, students should have a grasp on: <br/>
@@ -22,6 +23,7 @@ By the end of the course, students should have a grasp on: <br/>
 <li>Making websites dynamic with CSS transitions </li>
 <li>Basic JavaScript used for dynamic websites</li>
 <li>Basic libraries that can improve but also simplify their websites</li>
+<li>Basics of Github</li>
 <li>Develop critical skills around user Interaction and user experience </li>
 </ul>
 
@@ -32,7 +34,10 @@ Course Communication: Google group<br/>
 
 <h3>Policies, etc </h3>
 
-<b>Attendance: </b>At BMCC, the maximum number of absences is limited to one more hour than the number of hours a class meets in one week. For example, you may be enrolled in a four-hour class. In that class, you would be allowed 5 hours of absence (not 5 days). In the case of excessive absences, the instructor has the option to lower the grade or assign an F or WU grade.
+<b>Attendance: </b>Attendance will be taken at the beginning of each class. Students who come in later than 30 minutes after the class started will be marked absent.
+3 unexcused latenesses = one absence 
+3 unexcused absences = one half grade decrease (e.g. an A becomes an A-)
+More than 3 unexcused absences a student will receive a failing grade.
 </br>
 
 <b>Evaluation: </b>Students are evaluated on completetion and quality of assignments, homework assignments, class participation and attendance. Points will be deducted for late assignments and homework. <br/>
@@ -55,7 +60,7 @@ GitHub
 
 <h3>Resources</h3>
 
-Tutorials and readings will be posted on weekly class notes. There is no official textbook for this class. Students interested in text book resources should consider <a href="http://www.htmlandcssbook.com/" target="_blank">this HTML & CSS book</a> and <a href="http://www.htmlandcssbook.com/" target="_blank">this JavaScript and JQuery</a> book. 
+Tutorials and readings will be posted on weekly class notes. There is no official textbook for this class. Students interested in text book resources should consider <a href="http://www.htmlandcssbook.com/" target="_blank">this HTML & CSS book</a> and <a href="http://www.htmlandcssbook.com/" target="_blank">this JavaScript and JQuery</a> book. Also you can consult Mozilla documentation or w3schools (Mozilla is better at keeping up to date documentation, w3school is sometimes easier to find). 
 
 <h3>Computer Labs</h3>
 
