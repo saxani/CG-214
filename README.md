@@ -71,27 +71,27 @@ Week 1 (August 31th): Syllabus review and introduction to HTML and Github
 
 Week 2 (September 7th): Introduction to CSS
 
-Week 3 (September 14th): HTML and CSS together
+Week 3 (September 14th): HTML and inline CSS
 
-Week 4 (September 21st): Media elements in HTML
+Week 4 (September 21st): External CSS
 
-Week 5 (September 28th): 
+Week 5 (September 28th): Media elements in HTML and CSS
 
-Week 6 (October 5th): 
+Week 6 (October 5th): Dynamic CSS
 
-Week 7 (October 19th): 
+Week 7 (October 19th): Forms and fonts
 
-Week 8 (October 26th): 
+Week 8 (October 26th): Grid systems
 
 Week 9 (November 2nd): Midterm Project Presentations
 
-Week 10 (November 9th): 
+Week 10 (November 9th): Introduction to JavaScript
 
-Week 11 (November 16th): 
+Week 11 (November 16th): JavaScript in a webpage
 
-Week 12 (November 23rd): 
+Week 12 (November 23rd): Intro to Bootstrap
 
-Week 13 (November 30th): 
+Week 13 (November 30th): Bootstrap for responsive, mobile first websites
 
 Week 14 (December 7th): Review and final projects workshop
 
