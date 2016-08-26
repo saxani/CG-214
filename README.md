@@ -67,31 +67,31 @@ Tutorials and readings will be posted on weekly class notes. There is no officia
 Additional lab hours are available in the Library, CC15, CC15A and C220 if these labs are not being used for instructional purposes (will look into plain text editors available on computers).
 
 <h2>Weekly Schedule</h2>
-Week 1 (August 31th): Syllabus review and introduction to HTML
+Week 1 (August 31th): Syllabus review and introduction to HTML and Github
 
-Week 2 (September 7th): Basic JavaScript review and intro to Git/Github
+Week 2 (September 7th): Introduction to CSS
 
-Week 3 (September 14th): JavaScript: datatypes, math, random, and arrays
+Week 3 (September 14th): HTML and CSS together
 
-Week 4 (September 21st): JavaScript: logic and functions
+Week 4 (September 21st): Media elements in HTML
 
-Week 5 (September 28th): DOM and JavaScript events
+Week 5 (September 28th): 
 
-Week 6 (October 5th): JavaScript: loops and time
+Week 6 (October 5th): 
 
-Week 7 (October 19th): JQuery
+Week 7 (October 19th): 
 
-Week 8 (October 26th): JavaScript Objects and JSON
+Week 8 (October 26th): 
 
-Week 9 (November 2nd): Midterm Project Presentations, more JSON, APIs
+Week 9 (November 2nd): Midterm Project Presentations
 
-Week 10 (November 9th): JavaScript APIs and JSON
+Week 10 (November 9th): 
 
-Week 11 (November 16th): Websockets
+Week 11 (November 16th): 
 
-Week 12 (November 23rd): D3 and P5.js
+Week 12 (November 23rd): 
 
-Week 13 (November 30th): D3 and P5.js
+Week 13 (November 30th): 
 
 Week 14 (December 7th): Review and final projects workshop
 
