@@ -34,9 +34,9 @@ Course Communication: <a href="https://groups.google.com/a/fitnyc.edu/forum/#!fo
 
 <h3>Policies, etc </h3>
 
-<b>Attendance: </b>Attendance will be taken at the beginning of each class. Students who come in later than 30 minutes after the class started will be marked absent.
-3 unexcused latenesses = one absence 
-3 unexcused absences = one half grade decrease (e.g. an A becomes an A-)
+<b>Attendance: </b>Attendance will be taken at the beginning of each class. Students who come in later than 30 minutes after the class started will be marked absent. <br/>
+3 unexcused latenesses = one absence. <br/> 
+3 unexcused absences = one half grade decrease (e.g. an A becomes an A-). <br/>
 More than 3 unexcused absences a student will receive a failing grade.
 </br>
 
