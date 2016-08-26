@@ -60,15 +60,11 @@ GitHub
 
 <h3>Resources</h3>
 
-Tutorials and readings will be posted on weekly class notes. There is no official textbook for this class. Students interested in text book resources should consider <a href="http://www.htmlandcssbook.com/" target="_blank">this HTML & CSS book</a> and <a href="http://www.htmlandcssbook.com/" target="_blank">this JavaScript and JQuery</a> book. Also you can consult Mozilla documentation or w3schools (Mozilla is better at keeping up to date documentation, w3school is sometimes easier to find). 
+Tutorials and readings will be posted on weekly class notes. There is no official textbook for this class. Students interested in text book resources should consider <a href="http://www.htmlandcssbook.com/" target="_blank">this HTML & CSS book</a> and <a href="http://www.htmlandcssbook.com/" target="_blank">this JavaScript and JQuery</a> book. Also you can consult <a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">Mozilla</a> documentation or <a href="http://www.w3schools.com/" target="_blank">w3schools</a> (Mozilla is better at keeping up to date documentation, w3school is sometimes easier to find). 
 
 <h3>Computer Labs</h3>
 
-Computers are available for student usage in the locations listed on http://www.bmcc.cuny.edu/it
-
-<h3>Tutoring</h3>
-
-For MMP and MMA tutoring, please visit BMCC's <a href="http://www.bmcc.cuny.edu/lrc/schedule.jsp" target="_blank">tutoring schedule</a>.
+Additional lab hours are available in the Library, CC15, CC15A and C220 if these labs are not being used for instructional purposes (will look into plain text editors available on computers).
 
 <h2>Weekly Schedule</h2>
 Week 1 (August 29th): Syllabus and HTML/CSS review
