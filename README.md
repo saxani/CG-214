@@ -24,7 +24,7 @@ By the end of the course, students should have a grasp on: <br/>
 <li>Basic JavaScript used for dynamic websites</li>
 <li>Basic libraries that can improve but also simplify their websites</li>
 <li>Basics of Github</li>
-<li>Develop critical skills around user Interaction and user experience </li>
+<li>Develop critical skills around user interaction and user experience </li>
 </ul>
 
 <br/>
