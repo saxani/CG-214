@@ -91,9 +91,9 @@ Week 11 (November 16th): JavaScript in a webpage
 
 Week 12 (November 23rd): Intro to Bootstrap
 
-Week 13 (November 30th): Bootstrap for responsive, mobile first websites
+Week 13 (November 30th): Bootstrap for responsive, mobile first websites 
 
-Week 14 (December 7th): Review and final projects workshop
+Week 14 (December 7th): Review and final projects workshop (other topics such as p5.js and SASS)
 
 Week 15 (December 14th): Final project presentations
 
