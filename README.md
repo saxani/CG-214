@@ -60,7 +60,7 @@ GitHub
 
 <h3>Resources</h3>
 
-Tutorials and readings will be posted on weekly class notes. There is no official textbook for this class. Students interested in text book resources should consider <a href="http://www.htmlandcssbook.com/" target="_blank">this HTML & CSS book</a> and <a href="http://www.htmlandcssbook.com/" target="_blank">this JavaScript and JQuery</a> book. Also you can consult <a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">Mozilla</a> documentation or <a href="http://www.w3schools.com/" target="_blank">w3schools</a> (Mozilla is better at keeping up to date documentation, w3school is sometimes easier to find visa <a href="https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=title%20tag%20html" target="_blank">google searches</s>). 
+Tutorials and readings will be posted on weekly class notes. There is no official textbook for this class. Students interested in text book resources should consider <a href="http://www.htmlandcssbook.com/" target="_blank">this HTML & CSS book</a> and <a href="http://www.htmlandcssbook.com/" target="_blank">this JavaScript and JQuery</a> book. Also you can consult <a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">Mozilla</a> documentation or <a href="http://www.w3schools.com/" target="_blank">w3schools</a> (Mozilla is better at keeping up to date documentation, w3school is sometimes easier to find visa <a href="https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=title%20tag%20html" target="_blank">google searches</a>). 
 
 <h3>Computer Labs</h3>
 
