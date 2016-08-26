@@ -4,32 +4,30 @@ Syllabus, Class notes and assignments for CG-214, at FIT
 
 Fall 2016 <br/>
 Wednesday 4:00pm - 6:00pm <br/>
-C228 <br/> 
+Room C228 <br/> 
 
 Instructor: Shaun Axani <br/>
 Email: shaun_axani@fitnyc.edu <br/>
 Office Hours: By appointment <br/>
 
 <h3> Course Description </h3>
-Credits: 3 <br/>
-This course builds on MMP100 and MMP210 to introduce more advanced concepts, primarily in JavaScript and Jquery. Students will learn fundamentals of web-based programming to utilize media elements and text for the web. <br/>
+This course demystifies the web for students and acts as an introductory course for making websites. Students will work with HTML/CSS and learn about other libraries and languages to enhance their web-building skills<br/>
 
-By the end of the course, students should have a firm grasp on: <br/>
+By the end of the course, students should have a grasp on: <br/>
 <ul>
-<li>Basic JavaScript programming and object oriented principles</li>
-<li>Utilizing the Document Object Model (DOM) for web design </li>
-<li>Version control with Git and Github </li>
-<li>Dynamic web development with Jquery </li>
-<li>XML HTTP Requests using AJAX </li>
-<li>Using APIs with web apps </li>
-<li>Real time communication in the browser with web sockets</li>
+<li>What HTML is and how to use to at an intermediate level</li>
+<li>How to style websites with CSS </li>
+<li>Debugging their work and search for supplemental information</li>
+<li>Incorporating media elements into their work</li>
+<li>Making websites dynamic with CSS transitions </li>
+<li>Basic JavaScript used for dynamic websites</li>
+<li>Basic libraries that can improve but also simplify their websites</li>
 <li>Develop critical skills around user Interaction and user experience </li>
 </ul>
 
 <br/>
-Course Information: https://github.com/saxani/mmp310/ <br/>
-Course Communication: https://mmp310bmcc.slack.com/ <br/>
-Shaun's email: To come?
+Course Information: https://github.com/saxani/CG-214/ <br/>
+Course Communication: Google group<br/>
 <br/>
 
 <h3>Policies, etc </h3>
