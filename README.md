@@ -53,8 +53,8 @@ Assignments will be posted on GitHub with URLs submitted via Blackboard. Grades 
 
 <h3>Software</h3>
 
-Text Editors: <a href="https://www.sublimetext.com/" target="_blank">Sublime</a> or <a href="http://brackets.io/" target="_blank">Brackets</a>
-Browser: Chrome 
+Text Editors: <a href="https://www.sublimetext.com/" target="_blank">Sublime</a> or <a href="http://brackets.io/" target="_blank">Brackets</a> <br/>
+Browser: Chrome <br/>
 GitHub
 <br/>
 
@@ -67,7 +67,7 @@ Tutorials and readings will be posted on weekly class notes. There is no officia
 Additional lab hours are available in the Library, CC15, CC15A and C220 if these labs are not being used for instructional purposes (will look into plain text editors available on computers).
 
 <h2>Weekly Schedule</h2>
-Week 1 (August 29th): Syllabus and HTML/CSS review
+Week 1 (August 31th): Syllabus review and introduction to HTML
 
 Week 2 (September 12th): Basic JavaScript review and intro to Git/Github
 
