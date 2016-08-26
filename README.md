@@ -11,7 +11,7 @@ Email: shaun_axani@fitnyc.edu <br/>
 Office Hours: By appointment <br/>
 
 <h3> Course Description </h3>
-1.5 credits, prerequisite of CG111 or approval from Chairperson.<br/>
+1.5 credits<br/>
 This course demystifies the web for students and acts as an introductory course for making websites. Students will work with HTML/CSS and learn about other libraries and languages to enhance their web-building skills.<br/>
 
 By the end of the course, students should have a grasp on: <br/>
