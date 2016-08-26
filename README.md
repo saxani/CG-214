@@ -29,7 +29,7 @@ By the end of the course, students should have a grasp on: <br/>
 
 <br/>
 Course Information: https://github.com/saxani/CG-214/ <br/>
-Course Communication: <a href="https://groups.google.com/a/fitnyc.edu/forum/#!forum/web-page-construction.grp">Google group</a><br/>
+Course Communication: <a href="https://groups.google.com/a/fitnyc.edu/forum/#!forum/web-page-construction.grp">Google group</a> (Have to request access)<br/>
 <br/>
 
 <h3>Policies, etc </h3>
