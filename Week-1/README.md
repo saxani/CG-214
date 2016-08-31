@@ -10,6 +10,7 @@ Week 1 in class:
 <li>In your master directory, make a new folder with this class - press button create new file - Name it an add / at end for folder</li>
 <li>Make a new folder with a README.md for each week and put homework in there</li>
 </ul>
+</ul>
 
 <h2>Homework</h2>
 <ul>
