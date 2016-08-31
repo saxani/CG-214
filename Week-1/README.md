@@ -2,6 +2,10 @@ Week 1 in class:
 <ul>
 <li>Introductions and review syllabus</li>
 <li>Turn a website into blocks on paper</li>
+<ul>
+<li>washingtonpost.com</li>
+<li>mashable.com</li>
+<li>apple.com</li>
 <li>In class presentation: <a href="https://docs.google.com/presentation/d/1uBHqv7qnHy_L2wg7caGyCJS5dQZoG0F9JCI0LB9nqag/edit#slide=id.p">slides</a></li>
 <li>Getting started with Github</li>
 <ul>
