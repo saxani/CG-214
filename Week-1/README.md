@@ -1,7 +1,7 @@
 Week 1 in class:
 <ul>
 <li>Introductions and review syllabus</li>
-
+<li>Turn a website into blocks on paper</li>
 <li>In class presentation: <a href="https://docs.google.com/presentation/d/1uBHqv7qnHy_L2wg7caGyCJS5dQZoG0F9JCI0LB9nqag/edit#slide=id.p">slides</a></li>
 <li>Getting started with Github</li>
 <ul>
@@ -12,15 +12,16 @@ Week 1 in class:
 </ul>
 
 <h2>Homework</h2>
+<li>Get yourself a github account.</li>
+<li>Sign up for the <a href="https://groups.google.com/a/fitnyc.edu/forum/?hl=en#!forum/programming-concepts-f2016.grp">google group</a>.</li>
 <ul>
-<li>Make yourself a single web page talking about your favorite memories of summer.</i></li>
+<li>Make yourself a single web page discussing two current websites. One you like the layout of, one you dislike.</i></li>
 <ul>
+<li>Be specific in your critique, and try to relate it to design and layout.</li>
 <li>Make sure there is structural tags - head, body, p, and div </li>
 <li>Include links, paragraphs, and images</li>
 <li>Be sure to comment out your information</li>
 <li>Make a folder and post your assignment (.html file and images if necessary) to your Github and email me the link. </li>
 </ul>
-<li>Get yourself a github account.</li>
-<li>Sign up for the <a href="https://groups.google.com/a/fitnyc.edu/forum/?hl=en#!forum/programming-concepts-f2016.grp">google group</a>.</li>
-<li>Read Intro-Chapter 3 in Getting Started with Processing</li>
-<li>Bonus</li>
+
+
