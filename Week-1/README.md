@@ -9,15 +9,16 @@ Week 1 in class:
 <li>Make an account</li>
 <li>In your master directory, make a new folder with this class - press button create new file - Name it an add / at end for folder</li>
 <li>Make a new folder with a README.md for each week and put homework in there</li>
+</ul>
 
 <h2>Homework</h2>
 <ul>
-<li>Download <a href="https://processing.org/">Processing</a> on your own computer</a></li>
-<li>Follow example 2-2 in the book <i>Getting Started with Processing</i></li>
+<li>Make yourself a single web page talking about your favorite memories of summer.</i></li>
 <ul>
-<li>Can you draw different shapes?</li>
-<li>Can you make different color schemes</li>
-<li>Make a folder and post your assignment (.pde file) to your Github and email me the link. </li>
+<li>Make sure there is structural tags - head, body, p, and div </li>
+<li>Include links, paragraphs, and images</li>
+<li>Be sure to comment out your information</li>
+<li>Make a folder and post your assignment (.html file and images if necessary) to your Github and email me the link. </li>
 </ul>
 <li>Get yourself a github account.</li>
 <li>Sign up for the <a href="https://groups.google.com/a/fitnyc.edu/forum/?hl=en#!forum/programming-concepts-f2016.grp">google group</a>.</li>
