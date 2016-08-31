@@ -12,9 +12,9 @@ Week 1 in class:
 </ul>
 
 <h2>Homework</h2>
+<ul>
 <li>Get yourself a github account.</li>
 <li>Sign up for the <a href="https://groups.google.com/a/fitnyc.edu/forum/?hl=en#!forum/programming-concepts-f2016.grp">google group</a>.</li>
-<ul>
 <li>Make yourself a single web page discussing two current websites. One you like the layout of, one you dislike.</i></li>
 <ul>
 <li>Be specific in your critique, and try to relate it to design and layout.</li>
@@ -22,6 +22,7 @@ Week 1 in class:
 <li>Include links, paragraphs, and images</li>
 <li>Be sure to comment out your information</li>
 <li>Make a folder and post your assignment (.html file and images if necessary) to your Github and email me the link. </li>
+</ul>
 </ul>
 
 
