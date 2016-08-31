@@ -21,7 +21,8 @@ Week 1 in class:
 <ul>
 <li>Get yourself a github account.</li>
 <li>Sign up for the <a href="https://groups.google.com/a/fitnyc.edu/forum/?hl=en#!forum/web-page-construction.grp">google group</a>.</li>
-<li>Make yourself a single web page discussing two current websites. One you like the layout of, one you dislike.</i></li>
+<li>Write two paragraphs about two websites. One you like, one you dislike (in terms of the layout). What do you like about them? What do you hate about them? Be speific, and reference layout and design choices.</li>
+<li>Make yourself a single web page, like a blog entry, talking about your memory (or memories) of the summer.</li>
 <ul>
 <li>Be specific in your critique, and try to relate it to design and layout.</li>
 <li>Make sure there is structural tags - head, body, p, and div </li>
