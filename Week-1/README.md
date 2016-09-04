@@ -24,11 +24,10 @@ Week 1 in class:
 <li>Write two paragraphs about two websites. One you like, one you dislike (in terms of the layout). What do you like about them? What do you hate about them? Be speific, and reference layout and design choices.</li>
 <li>Make yourself a single web page, like a blog entry, talking about your memory (or memories) of the summer.</li>
 <ul>
-<li>Be specific in your critique, and try to relate it to design and layout.</li>
 <li>Make sure there is structural tags - head, body, p, and div </li>
 <li>Include links, paragraphs, and images</li>
 <li>Be sure to comment out your information</li>
-<li>Make a folder and post your assignment (.html file and images if necessary) to your Github and email me the link. </li>
+<li>Email me your index.html file, and if you have local images (not a link to a URL), incluede those, ideally in the proper file structure. </li>
 </ul>
 </ul>
 
