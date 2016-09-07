@@ -8,7 +8,7 @@ Room C228 <br/>
 
 Instructor: Shaun Axani <br/>
 Email: shaun_axani@fitnyc.edu <br/>
-Office Hours: By appointment <br/>
+Office Hours: Wednesday 11-1. But by appointment <br/>
 
 <h3> Course Description </h3>
 1.5 credits<br/>
