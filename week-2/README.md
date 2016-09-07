@@ -1,8 +1,8 @@
 
 Week 1 in class:
 <ul>
-<li>In class presentation: <a href="https://docs.google.com/presentation/d/1ZmlJ4MTQ0NdXYbVJDwTz-p7GGCfrE7zKaBOhYYgDFOk/edit#slide=id.p">slides</a></li>
 <li>Review homework</li>
+<li>In class presentation: <a href="https://docs.google.com/presentation/d/1ZmlJ4MTQ0NdXYbVJDwTz-p7GGCfrE7zKaBOhYYgDFOk/edit#slide=id.p">slides</a></li>
 <li>Getting started with Github</li>
 <li>Using plain text editors like Brackets</li>
 <li>File directories and more on images</li>
