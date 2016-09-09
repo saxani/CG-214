@@ -72,7 +72,7 @@ Week 1 (August 31th): Syllabus review and introduction to HTML
 
 Week 2 (September 7th): Github, Brackets, and HTML Images
 
-Week 3 (September 14th): HTML media elements and iFrames
+Week 3 (September 14th): Different pages, HTML media elements and iFrames
 
 Week 4 (September 21st): HTML forms and buttons
 
