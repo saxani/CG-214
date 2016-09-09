@@ -69,33 +69,33 @@ Tutorials and readings will be posted on weekly class notes. There is no officia
 Additional lab hours are available in the Library, CC15, CC15A and C220 if these labs are not being used for instructional purposes (will look into plain text editors available on computers).
 
 <h2>Weekly Schedule</h2>
-Week 1 (August 31th): Syllabus review and introduction to HTML and Github
+Week 1 (August 31th): Syllabus review and introduction to HTML 
 
-Week 2 (September 7th): Introduction to CSS
+Week 2 (September 7th): Github, Brackets, and HTML Images
 
-Week 3 (September 14th): HTML and inline CSS
+Week 3 (September 14th): HTML media elements and iFrames
 
-Week 4 (September 21st): External CSS
+Week 4 (September 21st): HTML forms and buttons
 
-Week 5 (September 28th): Media elements in HTML and CSS
+Week 5 (September 28th): CSS Introduction
 
-Week 6 (October 5th): Dynamic CSS
+Week 6 (October 5th): CSS selectors, cascading, inheritance
 
-Week 7 (October 19th): Forms and fonts
+Week 7 (October 19th): CSS Color
 
-Week 8 (October 26th): Grid systems
+Week 8 (October 26th): CSS text
 
 Week 9 (November 2nd): Midterm Project Presentations
 
-Week 10 (November 9th): Introduction to JavaScript
+Week 10 (November 9th): Boxes
 
-Week 11 (November 16th): JavaScript in a webpage
+Week 11 (November 16th): CSS positioning
 
-Week 12 (November 23rd): Intro to Bootstrap
+Week 12 (November 23rd): Styling forms and images
 
-Week 13 (November 30th): Bootstrap for responsive, mobile first websites 
+Week 13 (November 30th): CSS transitions and animation
 
-Week 14 (December 7th): Review and final projects workshop (other topics such as p5.js and SASS)
+Week 14 (December 7th): Design process and looking ahead to other libraries
 
 Week 15 (December 14th): Final project presentations
 
