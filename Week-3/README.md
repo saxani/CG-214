@@ -5,7 +5,7 @@ Week 3 in class:
 <ul>
 <li>Multiple HTML pages</li>
 <li>iframes</li>
-<li>Video Elements</li>
+<li>Media Elements</li>
 </ul>
 </ul>
 
