@@ -2,9 +2,11 @@ Week 3 in class:
 <ul>
 <li>Review homework</li>
 <li>In class presentation: <a href="https://docs.google.com/presentation/d/1r9DP7RHcFTbh4KLrIBtOSkA_GH4-QWbPKAsgn3BTEFM/edit#slide=id.p">slides</a></li>
+<ul>
 <li>Multiple HTML pages</li>
 <li>iframes</li>
 <li>Video Elements</li>
+</ul>
 </ul>
 
 <h2>Homework</h2>
