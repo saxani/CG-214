@@ -67,6 +67,12 @@ Tutorials and readings will be posted on weekly class notes. There is no officia
 
 Additional lab hours are available in the Library, CC15, CC15A and C220 if these labs are not being used for instructional purposes (will look into plain text editors available on computers).
 
+<h3>Tutorials</h3>
+Here are some tutorials that are going to be useful for starting your webpages and creating different components for them
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1_OHIeEyiLkH88Gkdil0iohc8bsmcQp2uZgiohrGMOeQ/edit#slide=id.p">Converting video for the HTML5 player</a></li>
+</ul>
+
 <h2>Weekly Schedule</h2>
 Week 1 (August 31th): Syllabus review and introduction to HTML 
 
