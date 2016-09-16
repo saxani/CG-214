@@ -70,6 +70,7 @@ Additional lab hours are available in the Library, CC15, CC15A and C220 if these
 <h3>Tutorials</h3>
 Here are some tutorials that are going to be useful for starting your webpages and creating different components for them
 <ul>
+<li><a href="https://docs.google.com/presentation/d/1IfGw-su8vU48sqdUO4sE-sWOFD5KrzNz_2xuYz__D0U/edit#slide=id.p">Uploading homework to Github</a></li>
 <li><a href="https://docs.google.com/presentation/d/1_OHIeEyiLkH88Gkdil0iohc8bsmcQp2uZgiohrGMOeQ/edit#slide=id.p">Converting video for the HTML5 player</a></li>
 </ul>
 
