@@ -8,6 +8,7 @@ Week 3 in class:
 <li>Media Elements</li>
 </ul>
 </ul>
+<p>My blog can be found online <a href="http://104.131.210.180:8090/index.html">here</a>.</p>
 
 <h2>Homework</h2>
 <ul>
