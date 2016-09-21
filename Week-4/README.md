@@ -18,5 +18,6 @@ Week 4 in class:
 <li>Post your index file, new second page, and all media files in the proper file structure. </li>
 <li>Post your github link to the google group</li>
 </ul>
+<li>Read <a href="https://helpx.adobe.com/dreamweaver/how-to/understanding-css.html">this</a> to prepare for CSS.</li>
 </ul>
 
