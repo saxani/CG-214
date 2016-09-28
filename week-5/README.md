@@ -7,6 +7,7 @@ Week 5 in class:
 <li>File Structure</li>
 <li>Selectors</li>
 </ul>
+<li>In class exercise</li>
 </ul>
 
 
