@@ -8,11 +8,18 @@ Week 6 in class:
 
 <h2>Homework</h2>
 <ul>
-<li>Take your current website and prepare your selectors</li>
+<li>Write two paragraphs proposing your midterm projec.t</li>
 <ul>
-<li>Start an external CSS file 'style.css' and reference all possible tags you use in it</li>
-<li>You don't have to do anything to them yet, you can just make sure they're selected</li>
-<li>If you feel comfortable, you can change the colors of all of the text elements</li>
+<li>The midterm projet will be either:</li>
+<ul>
+<li>1) A blog website dedicated to something you love (a food, sport, band, etc)</li>
+<li>2) A piece of hypertext art like <a href="https://rhizome.org/art/artbase/collections/collection-hypertext/">these</a>.</li>
+</ul>
+<li>The midterm will have at least three pages, use images and audio/video, and include an external stylesheet</li>
+To hand in in two weeks.
+<li>Two paragraphs describing what your midterm will be and why</li>
+<li>Have an external CSS file 'style.css'</li>
+<li>Use fonts and colors to enhance your page</li>
 <li>Post your entire webpage in the proper file structure to github. </li>
 <li>Post your github link to the google group</li>
 </ul>
