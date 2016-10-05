@@ -8,9 +8,9 @@ Week 6 in class:
 
 <h2>Homework</h2>
 <ul>
-<li>Write two paragraphs proposing your midterm projec.t</li>
+<li>Write two paragraphs proposing your midterm project</li>
 <ul>
-<li>The midterm projet will be either:</li>
+<li>The midterm project will be either:</li>
 <ul>
 <li>1) A blog website dedicated to something you love (a food, sport, band, etc)</li>
 <li>2) A piece of hypertext art like <a href="https://rhizome.org/art/artbase/collections/collection-hypertext/">these</a>.</li>
