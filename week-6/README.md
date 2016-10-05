@@ -16,7 +16,9 @@ Week 6 in class:
 <li>2) A piece of hypertext art like <a href="https://rhizome.org/art/artbase/collections/collection-hypertext/">these</a>.</li>
 </ul>
 <li>The midterm will have at least three pages, use images and audio/video, and include an external stylesheet</li>
+</ul>
 To hand in in two weeks.
+<ul>
 <li>Two paragraphs describing what your midterm will be and why</li>
 <li>Have an external CSS file 'style.css'</li>
 <li>Use fonts and colors to enhance your page</li>
