@@ -17,6 +17,7 @@ Week 6 in class:
 </ul>
 <li>The midterm will have at least three pages, use images and audio/video, and include an external stylesheet</li>
 </ul>
+<br />
 <li>To hand in in two weeks.</li>
 <ul>
 <li>Two paragraphs describing what your midterm will be and why</li>
