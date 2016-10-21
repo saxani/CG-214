@@ -1,0 +1,98 @@
+/*Your styling goes here*/
+
+body{   
+    background-color: #cccccc;
+    color: #444444;
+    font-family: "Gill Sans", Calibri, sans-serif;
+}
+
+/*Everything in the body, to center it on the screen*/
+#container{
+    max-width:960px;
+    min-width: 750px;
+    margin:0px auto 0px auto;
+    background-color: whitesmoke;
+}
+
+h1{
+    padding: 10px;
+    text-align: center;
+    
+}
+
+#name{
+    color: #0b5a9c;
+}
+
+/* The menu bar */
+li{
+    color: black;
+    display:inline;
+    margin-right: 15px;
+}
+/*Change color on hover*/
+li:hover{
+    color:blue;
+    cursor: pointer;
+}
+
+
+/*Make banner 100% of element it's in, which is the container*/
+#banner{
+    width:100%;
+}
+
+
+/*The par class within paragraphs 2-4*/
+p.par{
+    width: 90%;
+    margin: 20px auto 20px auto;
+  
+    border-width: 4px;
+    border-color: #0b5a9c;
+    border-style: solid;
+    border-radius: 15px;
+    
+    padding: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 3px 2px #888888;
+
+}
+
+/*First paragraph treated differently from others */
+#one{
+    padding: 10px;
+    border-width: 4px;
+    border-color: #0b5a9c;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: white;
+    margin: 0;
+}
+
+/*This div is for the second border around the first paragraph*/
+#div1{
+    width:75%; 
+    padding: 3px;
+    background-color: #bbbbbb;
+    margin: 20px auto 20px auto;
+    border-width:4px;
+    border-color: #0b5a9c;
+    border-style:solid;
+    border-radius: 15px;
+    
+}
+
+/*Photo that's inline*/
+#celebrate{
+    width: 200px;
+}
+
+#footer{
+    margin: 0px 0px 0px 89%;
+}
+
+/*using em on tiny logo so it's same size as words*/
+#logo{
+    height: 1em;
+}
