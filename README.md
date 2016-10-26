@@ -86,23 +86,23 @@ Week 4 (September 21st): HTML forms and buttons
 
 Week 5 (September 28th): CSS Introduction
 
-Week 6 (October 5th): CSS selectors, cascading, inheritance
+Week 6 (October 5th): CSS color and font
 
-Week 7 (October 19th): CSS Color
+Week 7 (October 19th): CSS boxes
 
-Week 8 (October 26th): CSS text
+Week 8 (October 26th): CSS layout part 1
 
 Week 9 (November 2nd): Midterm Project Presentations
 
-Week 10 (November 9th): Boxes
+Week 10 (November 9th): CSS layout part 2
 
-Week 11 (November 16th): CSS positioning
+Week 11 (November 16th): Styling forms and images
 
-Week 12 (November 23rd): Styling forms and images
+Week 12 (November 23rd): CSS transitions and animation
 
-Week 13 (November 30th): CSS transitions and animation
+Week 13 (November 30th): Formatting for mobile: Bootstrap
 
-Week 14 (December 7th): Design process and looking ahead to other libraries
+Week 14 (December 7th): Design process and looking ahead
 
 Week 15 (December 14th): Final project presentations
 
