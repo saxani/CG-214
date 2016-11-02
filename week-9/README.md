@@ -23,6 +23,8 @@
 <a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/nicholas/Index.html">Nicholas</a> <br/>
 <a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/alex/index.html">Alex</a> <br/>
 <a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/vivian/Pages/index.html">Vivian</a> <br/>
-<a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/stephanie/index.html">Stephanie</a>
+<a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/stephanie/index.html">Stephanie</a> <br />
+<a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/gavin/Midterm.html">Gavin</a> <br/>
+
 
 
