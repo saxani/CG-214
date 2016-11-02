@@ -19,4 +19,9 @@
 <a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/masami/index.html">Masami</a> <br/>
 <a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/chiharu/index.html">Chiharu</a> <br/>
 <a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/matthew/Index.html">Matthew</a>
+<a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/madelaine/index.html">Madelaine</a>
+<a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/nicholas/Index.html">Nicholas</a>
+<a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/alex/index.html">Alex</a>
+<a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/vivian/Pages/index.html">Vivian</a>
+
 
