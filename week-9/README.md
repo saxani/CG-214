@@ -8,7 +8,8 @@
 <li>What were you focusing on while making this site</li>
 <li>Why do you think this site will be easy for users to navigate?</li>
 <li>What worked and what didn't</li>
-<li>What would you want to do to the site going forward?<li>
+<li>What would you want to do to the site going forward?</li>
+<li>Feel free to show us your code by viewing source or in Brackets</li>
 </ul>
 
 <a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/shona/bees.html">Shona</a> <br/>
