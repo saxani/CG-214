@@ -25,6 +25,7 @@
 <a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/vivian/Pages/index.html">Vivian</a> <br/>
 <a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/stephanie/index.html">Stephanie</a> <br />
 <a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/gavin/Midterm.html">Gavin</a> <br/>
+<a href="http://shaunaxani.com/fit/cg214/midtermsFall2016/rocio/index.html">Rocio</a> <br />
 
 
 
