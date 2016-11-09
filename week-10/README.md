@@ -1,13 +1,17 @@
-<h2>Midterms & Layout pt. 2</h2>
+Week 10 in class:
+<ul>
+<li>Finish Midterms</li>
+<li>Layout: Part 2</li>
+<li>In class presentation: <a href="https://docs.google.com/presentation/d/1d9H5y22Fl92yHTwPXKYI2KJPTY25PPrOAwGm5L7PwCc/edit#slide=id.p">slides</a></li>
+</ul>
 
-<p>Speak for 5-minutes about your website.</p>
-<p>Talking points include:</p>
-<ul>  
-<li>Why this site?</li>
-<li>Give us an overview of the site</li>
-<li>What were you focusing on while making this site</li>
-<li>Why do you think this site will be easy for users to navigate?</li>
-<li>What worked and what didn't</li>
-<li>What would you want to do to the site going forward?</li>
-<li>Feel free to show us your code by viewing source or in Brackets</li>
+<h2>Homework</h2>
+<ul>
+<li>Finish Instagram layout</li>
+<li>Propose a website you are going to mimic</li>
+<ul>
+<li>Just need to post on our google group (by Midnight before class) saying which site you want to mimic and why</li>
+<li>Must be a common site, not to difficult, but not too simple</li>
+</ul>
+
 </ul>
