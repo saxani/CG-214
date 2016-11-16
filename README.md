@@ -75,6 +75,11 @@ Here are some tutorials that are going to be useful for starting your webpages a
 <li><a href="https://docs.google.com/presentation/d/1_OHIeEyiLkH88Gkdil0iohc8bsmcQp2uZgiohrGMOeQ/edit#slide=id.p">Converting video for the HTML5 player</a></li>
 </ul>
 
+<h3>Template</h3>
+<ul>
+<li><a href="https://github.com/saxani/websiteTemplate">Basic Website Template</a></li>
+</ul>
+
 <h2>Weekly Schedule</h2>
 Week 1 (August 31th): Syllabus review and introduction to HTML 
 
