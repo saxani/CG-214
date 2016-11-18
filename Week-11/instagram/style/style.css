@@ -1,0 +1,207 @@
+
+/*This is importing a search icon*/
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+body{
+    font-family: helvetica;
+    font-weight: normal;
+    color: #333333;
+}
+
+/*Setting height of header*/
+#header{
+    height: 80px;
+}
+
+/*So it appears like a hyperlink*/
+#main-logo{
+    cursor: pointer;
+}
+
+/*This is specific positioning to get the magnifying glass inside the search input. */
+.search { 
+    margin-top: 25px;
+    position: relative; 
+    text-align: center;        
+}
+/*Indent the text close to center*/
+.search input { 
+    text-indent: 45px;
+}
+
+/*Get the exact spot for the magnifying glass*/
+.search .fa-search { 
+    position: absolute;
+    top: 5px;
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+/*Actual sizing and style of search box at top*/
+#searchBox{
+    height: 20px; 
+    border-style: solid 1px;
+}
+
+/*Button styling for all buttons*/
+button{
+    font-size: 16px;
+    margin-left:10px;
+    margin-right: 10px;
+    height: 30px;
+    color: #3897f0;
+    background-color: white;
+    border-style: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+/*Find right height for the three buttons at the top */
+#loginButtons{
+   margin-top: 25px;
+}
+
+
+/* This button was styled slightly differently */
+#getapp{
+    background-color: #3897f0;
+    color: white;
+}
+
+/*Found good spot for the user's logo */
+#logo{
+    margin-top: 30px;
+    margin-left: 70px;  
+}
+
+/*Making the heading inline so the follow button can be beside it and make it not bold*/
+h1{
+    display: inline;
+    margin-right: 20px;
+    font-weight: 100;
+
+}
+
+/*Spread out the letters a bit more than standard helvetica*/
+p{
+    letter-spacing: 0.07em;
+}
+
+/*Follow button beside user name */
+#follow{
+    border: 1px solid #3897f0;
+}
+
+/*User desription*/
+#description{
+    margin-top:50px;
+    height: 180px;
+}
+
+/*Used a span to create space between user's posts, followers and following*/
+span{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+/* In order to make the hover state overlay on the images, there's a lot going on*/
+
+/*Adding bottom padding because 960 grid doesn't have it*/
+.photos {
+    position: relative;
+    padding-bottom: 20px;
+}
+
+/*The actual images within the photos class should take up 100% of the space */
+.photos img {
+    width: 100%;
+}
+
+/*Before and after inserts content around the photos, and we use CSS to make it hide unless it's hovered on. It's confusing to understand, but it's CSS hacks to stack these things on top of each other*/
+.photos:after,
+.photos:before {
+    position: absolute;
+    /*The opacity is 0 so we don't see these things*/
+    opacity: 0; 
+    /*This is how to do a transition in CSS. The transition lasts for 0.5 seconds. -webkit makes it capable on more browsers*/
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+
+/*After the image is a black box covering the whole image that has 0.3 transparency*/
+.photos:after {
+    content: '\A';
+    width: 100%;
+    height: 93%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+/*Before the box is the data-content which is the amount of likes and the rest refers to positioning of that text on the image */
+.photos:before {
+    content: attr(data-content);
+    width: 100%;
+    color: #fff;
+    z-index: 1;
+    top: 50%;
+    /*Since using top 50% will make it from the top of text not the center, the translate overcompensates for that*/
+    transform: translate(0%, -50%);
+    padding: 4px 10px;
+    text-align: center;
+}
+
+/*This is saying that when the photos are hovered on, change the opacity of the before and after content*/
+.photos:hover:after,
+.photos:hover:before {
+    opacity: 1;
+    cursor: pointer;
+}
+
+/*The buttom round button. It's wrapped in another div to get the positioning right. */
+.roundButton{
+    width: 15%;
+    margin:auto;
+}
+
+/*The button itself takes up the entire roundbutton class, the font is centered and the line height of it is the entire height, and with a border-radius of 50% it becomes a circle*/
+#loadmore{ 
+    margin-left: -10px;
+    display:block;
+    width:100%;
+    height:100%;
+    line-height:130px;
+    border: 2px solid #3897f0;
+    border-radius: 50%;
+    color:#3897f0;
+    text-align:center;
+    text-decoration:none;
+    font-size:16px;
+    font-weight:normal;
+  
+}
+
+/*The footer menu*/
+li{
+    display: inline;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: bold;
+    padding-right: 10px;   
+}
+
+/*Change anchor tag so they don't change color*/
+a{
+    text-decoration: none;
+    color: #333333;
+}
+
+#copyright{
+    text-align: right;
+    text-transform: uppercase;
+    padding-top: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    color: #888;
+    margin-bottom: 40px;
+}
