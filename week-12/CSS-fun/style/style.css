@@ -1,0 +1,85 @@
+body{
+    background-color: aliceblue;
+}
+
+header{
+    padding-top: 3%;
+    background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    margin-bottom: 5%;
+    text-shadow: 2px 2px #000000;
+    font-family: verdana, sans-serif;
+}
+
+ul{
+    
+    padding: 2%;
+    background-color: black;
+    margin-left: 0%;
+}
+
+li{
+    display:inline;
+    margin-right: 4%;
+}
+
+a{
+    text-decoration: none;
+    color: white;    
+}
+
+li:hover{
+    background-color: grey;
+}
+
+article{
+    
+    margin: 3%;
+}
+
+aside{
+    float: right;
+    display: inline;
+    width: 30%;
+    margin: 1%;
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #999999;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown-content a:hover {
+    background-color: #f1f1f1
+}
+
+
+
