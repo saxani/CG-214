@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html>
+    <head>
+        
+    </head>
+    
+    <body>
+        <!--Simply button with ID submit-->
+        <button id="submit">Click me.</button>
+        
+        <script type="text/javascript"> //Script tag for JavaScript
+            
+            //Variable with the name submit, now stores information about what's in the id named submit
+            var theSubmit = document.getElementById("submit");
+    
+            //After pressing the submit button, do what's in the function
+            theSubmit.onclick = function() {
+                alert("Button pushed!");
+            };
+        
+            //Note that in JavaScript, comments follow two forward-slashes
+        </script>
+    </body>
+</html>

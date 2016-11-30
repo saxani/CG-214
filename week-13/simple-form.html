@@ -1,0 +1,41 @@
+<!doctype html>
+
+<html>
+
+    <body>
+        <h1>Very important site form</h1>
+        <!--Two input fields for name and email-->
+        <input id="name" type="text" placeholder="Input name" />
+        <input id="email" placeholder="Input email" />
+        <!--Dropdown select box for borough-->
+        <select id="borough">
+            <option>Manhattan</option>
+            <option>Brooklyn<option>
+            <option>Bronx</option>
+            <option>Queens</option>
+            <option>Staeten Island</option>
+        </select>
+        <!--Submit button-->
+        <button id="submit">Submit</button>
+        
+        <div id="message"></div>
+        
+        <script type="text/javascript"> //Script tag for JavaScript
+            
+            //Variable with the name submit, now stores information about what's in the id named submit
+            var theSubmit = document.getElementById("submit");
+    
+            //After pressing the submit button, do what's in the function
+             submit.onclick = function() {
+                //Get value of name, email, borough and store in variables
+                var name = document.getElementById("name").value;
+                var email = document.getElementById("email").value;
+                var borough = document.getElementById("borough").value;
+                //Get the value of the message div and insert the values from the form
+                var message = document.getElementById("message");
+                message.innerHTML = "Hello " + name + " from "
+                + borough + ", welcome to my website.";
+            };
+        </script>
+    </body>
+</html>

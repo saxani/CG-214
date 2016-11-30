@@ -1,0 +1,92 @@
+<!doctype html>
+<!--Code courtesy of https://www.sitepoint.com/make-a-simple-javascript-slideshow-without-jquery/-->
+
+<html>
+    <head>
+        <title>Simple Slideshow</title>
+        <style>
+            #slides {
+                position: relative;
+                height: 300px;
+                padding: 0px;
+                margin: 0px;
+                list-style-type: none;
+            }
+
+            /*each slide not showing has opacity of 0 and z-index of 1*/
+            .slide {
+                position: absolute;
+                left: 0px;
+                top: 0px;
+                width: 100%;
+                height: 100%;
+                opacity: 0;
+                z-index: 1;
+                transition: opacity 1s;
+            }
+
+            /*the slide showing has opactiy of 1 and z-index of 2*/
+            .showing {
+                opacity: 1;
+                z-index: 2;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <ul id="slides">
+            <li class="slide showing"><img src="images/drake1.jpg" /></li>
+            <li class="slide"><img src="images/drake2.jpg" /></li>
+            <li class="slide"><img src="images/drake3.jpg" /></li>
+            <li class="slide"><img src="images/drake4.jpg" /></li>
+            <li class="slide"><img src="images/drake5.jpg" /></li>
+        </ul>
+        <button class="controls" id="pause">Pause</button>
+        
+        <script type="text/javascript">
+            //Get all slides, becomes an array of images
+            var slides = document.querySelectorAll('#slides .slide');
+            //Arrays start from 0, so this is the first slide
+            var currentSlide = 0;
+            //Every 2000 milliseconds go into the function nextSlide
+            var slideInterval = setInterval(nextSlide,2000);
+
+            function nextSlide() {
+                //Assign the class to the current slide to just slide
+                slides[currentSlide].className = 'slide';
+                //Switch to next slide
+                currentSlide = (currentSlide+1)%slides.length;
+                //Assign the classes to the new slide as slide and showing
+                slides[currentSlide].className = 'slide showing';
+            }
+            
+            //Variable for if the slideshow is playing or not
+            var playing = true;
+            //Getting the html button
+            var pauseButton = document.getElementById('pause');
+
+            /*If slide show is paused, change what button says, and stop the 2000 milliseconds interval*/
+            function pauseSlideshow() {
+                pauseButton.innerHTML = 'Play';
+                playing = false;
+                clearInterval(slideInterval);
+            }
+
+            /*If slideshow is played, change what button says and start the interval again*/
+            function playSlideshow() {
+                pauseButton.innerHTML = 'Pause';
+                playing = true;
+                slideInterval = setInterval(nextSlide,2000);
+            }
+
+            /*Figures out if it's playing or not and does the opposite*/
+            pauseButton.onclick = function() {
+                if(playing) {
+                    pauseSlideshow();
+              } else {
+                    playSlideshow();
+              }
+            };
+        </script>
+    </body>
+</html>

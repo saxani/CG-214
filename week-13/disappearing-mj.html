@@ -1,0 +1,39 @@
+<!doctype html>
+
+<html>
+    <style>
+        body{
+            background-color: black;
+        }
+        h1{
+            color: white;
+            z-index:100;
+        }
+        #mj{
+            position: absolute;
+            left: 200px;
+            top: 300px;
+        }
+        
+    </style>
+    <body>
+        <h1>Click Sad Michael Jordan</h1>
+        <div id="mj">
+            <img src="http://media.npr.org/assets/img/2016/03/29/ap_090911089838_sq-3271237f28995f6530d9634ff27228cae88e3440-s900-c85.jpg" width="200px" />
+        </div>
+       
+        
+        <script type="text/javascript"> 
+            var photo = document.getElementById('mj');
+            
+            photo.onmouseover = function(){
+                var x = Math.floor(Math.random() * (window.innerWidth-200));
+                var y = Math.floor(Math.random() * (window.innerHeight-200));
+                
+                photo.style.left = x + 'px';
+                photo.style.top = y + 'px';
+            }
+           
+        </script>
+    </body>
+</html>

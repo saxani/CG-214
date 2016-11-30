@@ -1,0 +1,96 @@
+<!doctype html>
+<!--Code courtesy of hhttps://codepen.io/g13nn/pen/eHGEF-->
+
+<html>
+    <head>
+        <title>Simple Slideshow</title>
+        <style>
+            body{
+                background-color: deepskyblue;
+                margin:0;
+                width:100%;
+            }
+            header{
+                width:100%; 
+                background:#1d1f20; 
+                height:60px; 
+                line-height:60px;
+            }
+            .hamburger{
+              background:none;
+              position:absolute;
+              top:0;
+              right:0;
+              line-height:45px;
+              padding:5px 15px 0px 15px;
+              color:#fff;
+              border:0;
+              font-size:1.4em;
+              font-weight:bold;
+              cursor:pointer;
+              outline:none;
+              z-index:10000000000000;
+            }
+            .cross{
+              background:none;
+              position:absolute;
+              top:0px;
+              right:0;
+              padding:13px 15px 0px 15px;
+              color:#fff;
+              border:0;
+              font-size:3em;
+              line-height:65px;
+              font-weight:bold;
+              cursor:pointer;
+              outline:none;
+              z-index:10000000000000;
+            }
+            .menu{z-index:1000000; font-weight:bold; font-size:0.8em; width:100%; background:#131313;  position:absolute; text-align:center;}
+            .menu ul {margin: 0; padding: 0; list-style-type: none; list-style-image: none;}
+            .menu li {display: block;   padding:15px 0 15px 0; border-bottom:#1d1f20 1px solid;}
+            .menu li:hover{display: block;    background:#181818; padding:15px 0 15px 0; border-bottom:#1d1f20 1px solid;}
+            .menu ul li a { text-decoration:none;  margin: 0px; color:#fff;}
+            .menu ul li a:hover {  color: #fff; text-decoration:none;}
+            .menu a{text-decoration:none; color:white;}
+            .menu a:hover{text-decoration:none; color:white;}
+
+        </style>
+    </head>
+    
+    <body>
+        <header>
+          <button class="hamburger">&#9776;</button>
+          <button class="cross">&#735;</button>
+        </header>
+
+        <div class="menu">
+          <ul>
+            <a href="#"><li>LINK ONE</li></a>
+            <a href="#"><li>LINK TWO</li></a>
+            <a href="#"><li>LINK THREE</li></a>
+            <a href="#"><li>LINK FOUR</li></a>
+            <a href="#"><li>LINK FIVE</li></a>
+          </ul>
+        </div> 
+        
+        <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript">
+            $( ".cross" ).hide();
+            $( ".menu" ).hide();
+            $( ".hamburger" ).click(function() {
+                $( ".menu" ).slideToggle( "slow", function() {
+                    $( ".hamburger" ).hide();
+                    $( ".cross" ).show();
+                });
+            });
+
+            $( ".cross" ).click(function() {
+                $( ".menu" ).slideToggle( "slow", function() {
+                    $( ".cross" ).hide();
+                    $( ".hamburger" ).show();
+                });
+            });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!doctype html>
+
+<html>
+    <head>
+       <style>
+        body{
+             background-color: red;  
+           }
+        
+        </style>
+        
+    </head>
+    
+    <body>
+        <!--Simply button with ID submit-->
+        <button id="submit">Click me.</button>
+        
+        <script type="text/javascript"> //Script tag for JavaScript
+            
+            //Variable with the name submit, now stores information about what's in the id named submit
+            var theSubmit = document.getElementById("submit");
+    
+            //After pressing the submit button, do what's in the function
+            theSubmit.onclick = function() {
+                document.body.style.backgroundColor = "blue";
+            };
+        
+            //Note that in JavaScript, comments follow two forward-slashes
+        </script>
+    </body>
+</html>
